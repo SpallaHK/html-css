@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mídias Em HTML</title>
+</head>
+<body>
+    <h1>Imagem Dinâmica</h1>
+    <p>Tente abtrir esse site em vários dispositivos diferentes, ou aumente e diminua o tamanho do seu navegador.</p>
+    <picture>
+        
+        
+        <source media="(max-width:750px)" srcset="pmg/foto-p.png" type="image/png">
+        <source media="(max-width:1050px)" srcset="pmg/foto-m.png" type="image/png">
+        <img src="pmg/foto-g.png" alt="imagem flexível">
+        </picture>
+
+        <audio src="midia/On The Flip - The Grey Room _ Density & Time.mp3" controls autoplay></audio><!--MP3 WAV OGG-->
+        <audio preload="auto" controls>
+            <source src="midia/On The Flip - The Grey Room _ Density & Time.mp3" type="audio/mpeg">
+            <p>Infelizmente seu navegador nãoconsegue reproduzir áudio <a href="midia/On The Flip - The Grey Room _ Density & Time.mp3">Clique aqui</a> para baixar o arquivo MP3</p> 
+
+        </audio>
+</body>
+</html>

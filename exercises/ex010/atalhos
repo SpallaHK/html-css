@@ -1,0 +1,51 @@
+Ah, agora sim! Prepare-se para turbinar seu Visual Studio Code com alguns truques que vão fazer você se sentir um verdadeiro ninja do teclado 🥷💻. Aqui vão alguns dos mais úteis e surpreendentes:
+
+---
+
+### ⚡ Truques de Produtividade no VS Code
+
+#### 1. **Multi-cursor inteligente**
+- **Atalho:** `Alt + Click`  
+- Permite editar várias linhas ao mesmo tempo. Ideal para alterar variáveis repetidas ou ajustar múltiplos trechos de código simultaneamente.
+
+#### 2. **Snippets personalizados**
+- Crie seus próprios trechos de código reutilizáveis.  
+- Vá em `Preferences > User Snippets` e configure para sua linguagem favorita.
+
+#### 3. **Zen Mode**
+- **Atalho:** `Ctrl + K, Z`  
+- Remove distrações da tela e te coloca em modo foco total. Ótimo para codar sem interrupções.
+
+#### 4. **Duplicar linha rapidamente**
+- **Atalho:** `Shift + Alt + ↓` ou `↑`  
+- Duplica a linha atual para cima ou para baixo. Muito útil para repetir estruturas ou comandos.
+
+#### 5. **Ir direto para qualquer arquivo**
+- **Atalho:** `Ctrl + P`  
+- Digite o nome do arquivo e abra instantaneamente sem navegar pelas pastas.
+
+#### 6. **Ir direto para funções ou variáveis**
+- **Atalho:** `Ctrl + Shift + O`  
+- Lista todos os símbolos do arquivo atual (funções, variáveis, classes) e permite navegar rapidamente.
+
+#### 7. **Live Preview de Markdown**
+- **Atalho:** `Ctrl + Shift + V`  
+- Visualize seus arquivos `.md` renderizados em tempo real.
+
+#### 8. **Busca com Regex**
+- **Atalho:** `Ctrl + Shift + F` e ative o botão `.*`  
+- Faça buscas avançadas usando expressões regulares.
+
+#### 9. **Documentação rápida**
+- **Atalho:** `Ctrl + Space`  
+- Mostra a documentação da função ou variável sob o cursor.
+
+#### 10. **Comando mágico**
+- **Atalho:** `Ctrl + Shift + P`  
+- Abre a paleta de comandos, onde você pode fazer praticamente tudo: instalar extensões, mudar tema, rodar scripts, etc.
+
+---
+
+Se quiser ver uma lista completa com 30 dicas incríveis, dá uma olhada neste artigo do [PapoDeDev](https://papodedev.com.br/2024/08/25/dominar-o-visual-studio-code/). Ele é recheado de truques que vão te deixar afiado como um samurai do código.
+
+Quer que eu te monte um guia personalizado com base no que você mais faz no VS Code? Tipo front-end, back-end, data science… é só dizer!

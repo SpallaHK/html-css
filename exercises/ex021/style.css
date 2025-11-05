@@ -1,0 +1,16 @@
+
+
+#rodape{
+    text-align: center;
+    background-color: #489696;
+    padding: 4px 4px;
+}
+footer > p{
+    margin: 0px;
+    padding: 1px;
+}
+main{
+    background-color: #35c6c6;
+    border-radius: 6px;
+    box-shadow: 2px 3px 3px #0000008c;
+} 

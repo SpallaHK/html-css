@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Grouping Tags</title>
+    <style>
+        body{
+            height: fit-content;
+            background-attachment: fixed;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #faebd7;
+            background-image: linear-gradient(to bottom, #35fdfd 35%, #ffffff);
+        }
+        header{
+            background-color: #35e4e4;
+            border-width: 1px;
+            border-style: solid;
+            border-color: #35e4e4; 
+            margin: 2px 2px 2px 2px;
+            padding: 1px 1px 1px 1px;
+        }
+        header:hover{
+            border-width: 1px;
+            border-style: solid;
+            border-color: #00000054;
+        }
+        header > h1{
+              width: fit-content;
+              border-width: 1px;
+              border-style: solid;
+              border-color: #35e4e4;
+        }
+        header > h1:hover{
+            width: fit-content;
+            border-width: 1px;
+            border-style: solid;
+            border-color: #00000054;
+        }
+        header > nav > a{
+            text-decoration: none;
+            color: #000000;
+            padding-right: 20px;
+            font-weight: 300;
+            
+        }
+        header > nav > a:hover{
+            color: #1a1a1aba;
+            box-shadow: 1px 1px 2px #1a1a1aba;
+        }
+        header > nav{
+            background-color: #489696;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.651);
+        }
+        main{
+            text-indent: 4px;
+            
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Meu Site</h1>
+        <nav><a href="caixa01.html" target="_blank" rel="self"> Link</a> <a href="#"> Link</a> <a href="">Link</a> <a href="">Link</a></nav> 
+    </header>
+    <main> 
+        <section> 
+            <h2 style="margin-bottom: 14px;">Estudos</h2><p style="margin-top: 0px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam cumque cum quasi labore, magnam nesciunt accusamus inventore. Doloribus exercitationem magni, similique laboriosam ad quidem natus, facilis obcaecati voluptatum atque maiores.</p> 
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum autem assumenda facere iusto nihil, at hic, voluptatem vel iste fugiat ipsa blanditiis amet atque molestias praesentium iure, dignissimos reiciendis est!</p></section>
+        <p style="text-align: center; height: 30px;">Lorem ipsum dolor sit amet consectetur.</p>
+    </main>
+    <footer id="rodape">
+        <p>Feito por SpallaHK</p>
+    </footer>
+</body>
+</html>
