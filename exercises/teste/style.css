@@ -105,7 +105,13 @@ a:active{
 }
 footer{
     margin: auto;
+    margin-top: 0px;
     max-width: 830px;
     background-color: var(--cor3);
-
+    border-radius: 10px;
+}
+footer p{
+    text-align: center;
+    padding: 8px;
+    
 }
